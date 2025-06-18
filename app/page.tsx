@@ -118,7 +118,7 @@ export default function LoginPage() {
                   <SelectItem value="despachante">
                     <div className="flex items-center gap-2">
                       <Truck className="w-4 h-4" />
-                      Despachante
+                      Depósito y Despacho
                     </div>
                   </SelectItem>
                 </SelectContent>
